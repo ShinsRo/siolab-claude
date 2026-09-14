@@ -1,0 +1,4 @@
+.DS_Store
+
+# Claude Code가 만드는 격리 체크아웃
+.claude/worktrees/
